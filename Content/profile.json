@@ -7,17 +7,17 @@
   "AboutText": "Hi, I am Jayden Kalberer. I am a passionate Electrical Engineering student with a keen interest in PCB design and power systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of Electrical Engineering.<br><br>I enjoy tackling challenging engineering projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>I am professionally interested in fields relating to aviation, automotive, or robotics. Growing up in a family filled with airplane and automotive mechanics instilled a lifelong passion. My interest in robotics started after taking a related course in high school. To be a part of the design process relating to one of these fields would be a dream come true."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "EMail": "kalbererj@spu.edu",
+  "Phone": "(206) 963-2637",
+  "Portfolio": "https://kalbejay000.github.io",
+  "LinkedIn": "www.linkedin.com/in/jayden-kalberer",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Major": "Electrical Engineering",
+  "Graduation": "June 2027",
   "EducationText": "Use this to add some narrative to your education section",
   "Employment": "Seattle Pacific University",
   "Role": "Computer Science Lab Assistant",
