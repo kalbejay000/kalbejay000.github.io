@@ -3,7 +3,7 @@
   "Name": "Jayden X Kalberer",
   "Currently": "Electrical Engineering",
   "Headshot": "HeadShot.jpg",
-  "Thumbnail": "student-logo.webp",
+  "Thumbnail": "HeadShot.jpg",
   "AboutText": "Hi, I am Jayden Kalberer. I am a passionate Electrical Engineering student with a keen interest in PCB design and power systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of Electrical Engineering.<br><br>I enjoy tackling challenging engineering projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>I am professionally interested in fields relating to aviation, automotive, or robotics. Growing up in a family filled with airplane and automotive mechanics instilled a lifelong passion. My interest in robotics started after taking a related course in high school. To be a part of the design process relating to one of these fields would be a dream come true."
 },
 "Contact": {
@@ -18,13 +18,13 @@
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EducationText": "I shall graduate from Seattle Pacific University in June of 2027.",
+  "Employment": "Washington Movers",
+  "Role": "Laborer",
+  "EmploymentText": "I have been with this company since July 2026",
   "Skills": ["Altium", "LTspice", " C++", " Python"," Micro Python"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "SkillsText": "These are some of the skills I have acquired while working towards my degree.",
+  "Resume": "Resume unrevised.pdf"  
 },
 "Project1": {
     "Title": "Gravity Lamp",
