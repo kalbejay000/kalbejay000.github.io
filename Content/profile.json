@@ -22,7 +22,7 @@
   "Employment": "Washington Movers",
   "Role": "Laborer",
   "EmploymentText": "I have been with this company since July 2026",
-  "Skills": ["Altium", "LTspice", " C++", " Python"," Micro Python"],
+  "Skills": ["Altium", " LTspice", " C++", " Python"," Micro Python"],
   "SkillsText": "These are some of the skills I have acquired while working towards my degree.",
   "Resume": "Resume unrevised.pdf"  
 },
