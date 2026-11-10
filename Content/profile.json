@@ -28,14 +28,14 @@
 },
 "Project1": {
     "Title": "Gravity Lamp",
-    "Desc": "The Gravity Lamp is a project I made with three other engineering students for my Junior Design class at SPU. The goal was to create a portable light that could be recharged by converting gravitational energy into electricity. I was in charge of developing the Power Generation and Storage subsystem (Slide 1) and the Lighting subsystem. This involved sourcing and testing our generator under a simulated load to find the optimal RPM the generator needs to spin at to produce the required voltage and amperage to charge our chosen battery (slide 2). As for the Lighting subsystem, I designed a lighting circuit that would produce at least 400 lumens of light when powered along with our other electrical components (slide 3).<br><br>Here is a link to a video going over the full project: https://youtu.be/6dhxcbBb5b4?si=gkZMMuPDTXkZDUjW.",
-    "GitHubRepo": "https://github.com",
+    "Desc": "The Gravity Lamp is a project I made with three other engineering students for my Junior Design class at SPU. The goal was to create a portable light that could be recharged by converting gravitational energy into electricity. I was in charge of developing the Power Generation and Storage subsystem (See More Slide 1) and the Lighting subsystem. This involved sourcing and testing our generator under a simulated load to find the optimal RPM the generator needs to spin at to produce the required voltage and amperage to charge our chosen battery (slide 2). As for the Lighting subsystem, I designed a lighting circuit that would produce at least 400 lumens of light when powered along with our other electrical components (See More slide 3).<br><br>Here is a link to a video going over the full project: https://youtu.be/6dhxcbBb5b4?si=gkZMMuPDTXkZDUjW.",
+    "GitHubRepo": "",
     "MainImage": "Gravity Lamp Project Main.png",
     "DetailImages": ["PowerGenStorSub.jpg","Screenshot 2026-11-09 185854.png","LightCircuit.jpg"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "DC Power Supply",
+    "Desc": "This circuit is a DC power supply offering multiple output levels that I made myself for my Electronics 1 class at SPU (See More Slide 1). It is powered by a 10:1 center-tapped step-down transformer connected to a standard 120 V AC wall outlet. The output terminals provide three fixed voltage levels, three adjustable voltage levels, and a ground connection. The transformer delivers a 12 V AC input, which is rectified by a diode bridge to produce positive and negative outputs. These outputs feed five voltage regulators. An operational amplifier, powered by the +12 V and –12 V voltage regulators, supplies an isolated output. Potentiometers are used to adjust the output voltages of the two adjustable regulators and the op-amp. I used Altium and LTspice to develop and create the PCB for this circuit (See More Slides 1-3).<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
