@@ -41,8 +41,8 @@
     "DetailImages": ["DCSupLTspiceCircuit.png","DCSupAltiumPCB.png","DCSupAnalysis.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "4th Order Sallen-Key Bandpass Filter at 25kHz",
+    "Desc": "My filter consisted of two stages; the first stage has a Q value of 3.5, and the second stage has a Q value of 4.0.  For the first stage, the gain was 1.96 V/V dB, and for the second stage, the gain was 2.2 V/V. This results in the filter having a total gain of 4.28 V/V at 25 kHz. It also included a built-in peak detector and comparator that turns on an LED to show that the correct frequency is coming from the input signal. To develop this circuit, I primarily used LTspice.<br><br>Circuit Schematic for a Fourth-Order Sallen-Key 25 kHz Bandpass Circuit Drawn in LTspice (See More Slide 1). O-Scope Generated FRA for the Physical Circuit at 25k Hz (See More Slide 2). Design and Computations for Peak Detector (See More Slide 3). Design and Computations for Comparator (See More Slide 4)",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
